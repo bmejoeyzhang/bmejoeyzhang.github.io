@@ -1,3 +1,7 @@
+![WeChat Image_20220617195048](https://user-images.githubusercontent.com/81866975/180647704-4afc0d1d-20e5-4854-8568-72e1b41756b1.png)
+
+
+
 ## Welcome to My Pages
 
 You can use the [editor on GitHub](https://github.com/bmejoeyzhang/bmejoeyzhang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
